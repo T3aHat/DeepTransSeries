@@ -36,4 +36,4 @@ These terms and conditions are effective as of 2022-01-21
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at teahat.dev@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at deeplopener(at)gmail.com.
