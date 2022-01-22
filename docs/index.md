@@ -5,7 +5,7 @@ class: DeepLopener series
 
 # DeepLopener Series
 
-# 【EN】  
+【EN】  
 
 ## Chrome extension
 ### [DeepLopener](https://deeplopener.ml/DeepLopener)  
@@ -31,21 +31,21 @@ class: DeepLopener series
 <br>
 <br>
 
-# 【日本語】  
+【日本語】  
 
-## Chrome extension
+## Chrome拡張機能
 ### [DeepLopener](https://deeplopener.ml/DeepLopener)  
 - ページ翻訳，PDF上に翻訳表示，ドキュメント翻訳機能等を実装
 - [GIZMODE](https://www.gizmodo.jp/2021/02/deeplopener-pro.html)，[Gigazine](https://gigazine.net/news/20211231-deepl-opener/)などで取り上げられた
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/iptT7NxNoz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Android App  
+## Androidアプリ
 ### [DeepLopener for Android](https://deeplopener.ml/DeepLopener_for_Android)  
 - 翻訳結果を表示するだけの単純なAndroidアプリ
 - Google Translateのように開いているアプリ上に翻訳結果を表示するのでアプリ間遷移が少なく使い勝手が良い
 
-## Windows application
+## Windowsデスクトップアプリ
 ### [DeepLopenerOCR](https://github.com/T3aHat/DeepLopenerOCR)  
 - 元々DeepL API Proを取得してもデスクトップアプリでは使えないことに不満を感じて実装
     - 謹製アプリ同様Ctrl+C×2などのショートカットで翻訳可能
