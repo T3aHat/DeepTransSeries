@@ -1,6 +1,7 @@
 ---
 title: DeepLopener for Android
 class: DeepLopener for Android
+github.repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
 # DeepLopener for Android

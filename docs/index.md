@@ -1,6 +1,7 @@
 ---
 title: DeepLopener series
 class: DeepLopener series
+github.repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
 【EN】  

@@ -1,6 +1,7 @@
 ---
 title: DeepLopener for Android | Privacy policy
 class: DeepLopener for Android
+github.repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
 **Privacy Policy**

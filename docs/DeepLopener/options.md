@@ -1,6 +1,7 @@
 ---
 title: DeepLopener | Options
 class: DeepLopener
+github.repository_url: https://github.com/T3aHat/DeepLopener
 ---
 
 # Options

@@ -1,6 +1,7 @@
 ---
 title: DeepLopener | How to use
 class: DeepLopener
+github.repository_url: https://github.com/T3aHat/DeepLopener
 ---
 
 日本語解説記事は [コチラ](https://t3ahat.hateblo.jp/entry/How_to_use_DeepLopener)  
