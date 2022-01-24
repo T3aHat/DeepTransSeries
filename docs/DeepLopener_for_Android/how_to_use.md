@@ -13,13 +13,15 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 2.  **Download [DeepLopener for Android](https://chrome.google.com/webstore/detail/deepl-opener-pro/almdndhiblbhbnoaakhgefcpmbaoljde)**
 
 3.  **Input your API_KEY and change a setting of API version on settings page** ![settings.png](/assets/images/outline_settings_black_24dp.png)  
-![settings_api.png](/assets/images/settings_api.png)  
+
+<img src="/assets/images/settings_api.png" alt="settings_api.png" style="width: 50%;">
+
     - If you use Pro version API, toggle the `API version` to enabled.
 
 # How to translate
   
 ## Normal mode
-![normalMode.png](/assets/images/normalMode.png)  
+<img src="/assets/images/normalMode.png" alt="normalMode.png" style="width: 50%;">
 
 1. Execute this app
 2. Input text you want to translate in the textarea above
@@ -35,21 +37,25 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 This mode can be used in some application like GoogleChrome, FireFox, etc.
 
 1. Select text you want to translate like below
-![select.png](/assets/images/select.png)  
+<img src="/assets/images/select.png" alt="select.png" style="width: 50%;">
+
 2. Tap `DeepLopener`
     - `DeepLopener` may be hidden in some environment. If so, check `︙` to find it.
     - If you can't find it (Ex. occurs in Gmail), We are so sorry but you can't use this mode by technical issue.
 3. The translation window will appear on top of the opening application
-![select_trans.png](/assets/images/select_trans.png)  
+<img src="/assets/images/select_trans.png" alt="select_trans.png" style="width: 50%;">
+
 
 ## Share mode
 If you can't use ContextMenu mode, please try this mode.
 
 1. Select text you want to translate like below
-![share.png](/assets/images/share.png)  
+<img src="/assets/images/share.png" alt="share.png" style="width: 50%;">
+
 2. Tap `Share`
 3. Tap `DeepLopener`
-![share_deepl.png](/assets/images/share_deepl.png)  
+<img src="/assets/images/share_deepl.png" alt="share_deepl.png" style="width: 50%;">
+
 4. The translation window will appear on top of the opennig application
 
 ## Notification mode
@@ -59,7 +65,7 @@ This mode may help your experience.
 ※ This mode is beta version now. I found a problem that notification will be removed when we close the history of this app on MIUI devices.  
 
 1. Toggle the `Tap to Translate` to enabled.
-![tap_settings.png](/assets/images/tap_settings.png)
+<img src="/assets/images/tap_settings.png" alt="tap_settings.png" style="width: 50%;">
 2. Notification will appear
-![notify.png](/assets/images/notify.png)
+<img src="/assets/images/notify.png" alt="notify.png" style="width: 50%;">
 3. Tap it and the translation result of clipboard text will appear on top of the opennig application
