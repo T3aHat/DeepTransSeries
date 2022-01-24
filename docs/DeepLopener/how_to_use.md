@@ -1,7 +1,7 @@
 ---
 title: DeepLopener | How to use
 class: DeepLopener
-github.repository_url: https://github.com/T3aHat/DeepLopener
+repository_url: https://github.com/T3aHat/DeepLopener
 ---
 
 日本語解説記事は [コチラ](https://t3ahat.hateblo.jp/entry/How_to_use_DeepLopener)  
@@ -9,8 +9,8 @@ github.repository_url: https://github.com/T3aHat/DeepLopener
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/iptT7NxNoz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-1. **Get your [DeepL API_KEY](https://www.deepl.com/en/pro/change-plan#developer)** like `12345678-6ab78c-910-1112-12345678abcd:fx`  
-   ![free.png](https://cdn-ak.f.st-hatena.com/images/fotolife/t/t3ahat/20210808/20210808042505.png)
+1. **Get your [DeepL API_KEY](https://www.deepl.com/en/pro/change-plan#developer)**   
+   ![price.png](/assets/images/price.png)
    If you use DeepL API Free, you can translate text for max. 500,000 characters/month.
 
 2.  **Download [DeepLopener](https://chrome.google.com/webstore/detail/deepl-opener-pro/almdndhiblbhbnoaakhgefcpmbaoljde)**

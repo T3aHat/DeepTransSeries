@@ -1,7 +1,7 @@
 ---
 title: DeepLopener | sync
 class: DeepLopener
-github.repository_url: https://github.com/T3aHat/DeepLopener
+repository_url: https://github.com/T3aHat/DeepLopener
 ---
 
 # Why do I need to log in and enable synchronization?
