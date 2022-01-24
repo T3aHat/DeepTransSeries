@@ -4,7 +4,7 @@ class: DeepLopener for Android
 repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
-# How to set up 
+# How to start
   
 1. **Get your [DeepL API_KEY](https://www.deepl.com/en/pro/change-plan#developer)**   
    ![price.png](/assets/images/price.png)
