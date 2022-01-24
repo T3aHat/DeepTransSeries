@@ -1,7 +1,7 @@
 ---
 title: DeepLopener for Android | How to use
-class: DeepLopener
-repository_url: https://github.com/T3aHat/DeepLopener
+class: DeepLopener for Android
+repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
 # How to set up 

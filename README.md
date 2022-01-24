@@ -1,4 +1,4 @@
-# DeepLopenerシリーズ用ウェブサイト
+# DeepLopener Series
 
 https://deeplopener.ml
 
