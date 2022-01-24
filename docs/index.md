@@ -12,6 +12,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 - Featured in [GIZMODE](https://www.gizmodo.jp/2021/02/deeplopener-pro.html), [Gigazine](https://gigazine.net/news/20211231-deepl-opener/), etc. 
 
 ## Android App: [DeepLopener for Android](https://deeplopener.ml/DeepLopener_for_Android)  
+- [Google Play](https://play.google.com/store/apps/details?id=com.teahat.deeplopener)
 - A simple Android app that just displays the translation results.
 - Like Google Translate, it displays the translation results over the current opening app, so there are fewer transitions between apps, making it easier to use.
 
@@ -34,6 +35,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 - [GIZMODE](https://www.gizmodo.jp/2021/02/deeplopener-pro.html)，[Gigazine](https://gigazine.net/news/20211231-deepl-opener/)などで取り上げられた
 
 ## Androidアプリ: [DeepLopener for Android](https://deeplopener.ml/DeepLopener_for_Android)  
+- [Google Play](https://play.google.com/store/apps/details?id=com.teahat.deeplopener)
 - 翻訳結果を表示するだけの単純なAndroidアプリ
 - Google Translateのように開いているアプリ上に翻訳結果を表示するのでアプリ間遷移が少なく使い勝手が良い
 

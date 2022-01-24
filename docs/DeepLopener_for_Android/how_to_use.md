@@ -10,7 +10,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
    ![price.png](/assets/images/price.png)
    If you use DeepL API Free, you can translate text for max. 500,000 characters/month.
 
-2.  **Download [DeepLopener for Android](https://chrome.google.com/webstore/detail/deepl-opener-pro/almdndhiblbhbnoaakhgefcpmbaoljde)**
+2.  **Download [DeepLopener for Android](https://play.google.com/store/apps/details?id=com.teahat.deeplopener)**
 
 3.  **Input your API_KEY and change a setting of API version on settings page** ![settings.png](/assets/images/outline_settings_black_24dp.png)  
     - If you use Pro version API, toggle the `API version` to enabled.  
