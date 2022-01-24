@@ -1,12 +1,13 @@
 ---
 title: DeepLopener series
 class: DeepLopener series
-github.repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
+repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ---
 
 【EN】  
 
 ## Chrome extension: [DeepLopener](https://deeplopener.ml/DeepLopener)  
+- [GitHub](https://github.com/T3aHat/DeepLopener)
 - Page translation, translation display on PDF, document translation function, etc. are implemented.
 - Featured in [GIZMODE](https://www.gizmodo.jp/2021/02/deeplopener-pro.html), [Gigazine](https://gigazine.net/news/20211231-deepl-opener/), etc. 
 
@@ -28,6 +29,7 @@ github.repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 【日本語】  
 
 ## Chrome拡張機能: [DeepLopener](https://deeplopener.ml/DeepLopener)  
+- [GitHub](https://github.com/T3aHat/DeepLopener)
 - ページ翻訳，PDF上に翻訳表示，ドキュメント翻訳機能等を実装
 - [GIZMODE](https://www.gizmodo.jp/2021/02/deeplopener-pro.html)，[Gigazine](https://gigazine.net/news/20211231-deepl-opener/)などで取り上げられた
 
