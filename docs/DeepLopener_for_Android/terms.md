@@ -1,7 +1,7 @@
 ---
 title: DeepLopener for Android | Terms & Conditions
 class: DeepLopener for Android
-repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
+repository_url: https://github.com/T3aHat/DeepLopenerSeries
 ---
 
 **Terms & Conditions**

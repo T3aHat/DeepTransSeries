@@ -1,10 +1,10 @@
 ---
 title: DeepLopener series
 class: DeepLopener series
-repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
+repository_url: https://github.com/T3aHat/DeepLopenerSeries
 ---
 
-【EN】  
+**【EN】**  
 
 ## Chrome extension: [DeepLopener](https://deeplopener.ml/DeepLopener)  
 <a href="https://chrome.google.com/webstore/detail/deeplopener/almdndhiblbhbnoaakhgefcpmbaoljde" target="_blank" rel="noopener noreferrer"><img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" alt="ChromeWebStore" width="300px" ></a>
@@ -20,7 +20,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 ## Windows: [DeepLopenerOCR](https://github.com/T3aHat/DeepLopenerOCR)  
 - Originally I implemented this app because I was dissatisfied with the fact that I couldn't use it in desktop apps even after acquiring DeepL API Pro.
     - Can be translated by using shortcuts such as Ctrl+C×2 as in the original application that is published by [deepl.com](https://deepl.com).
-- OCR function by Tesseract was implemented later.
+- Lately, OCR function by Tesseract was implemented.
     - Monitors the clipboard data and starts automatically when the data type becomes `image`.
     - By combining with Chrome extension, the window will appear on the front page when it fires even if it is minimized.
 
@@ -28,7 +28,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
 <br>
 <br>
 
-【日本語】  
+**【日本語】**  
 
 ## Chrome拡張機能: [DeepLopener](https://deeplopener.ml/DeepLopener)  
 <a href="https://chrome.google.com/webstore/detail/deeplopener/almdndhiblbhbnoaakhgefcpmbaoljde" target="_blank" rel="noopener noreferrer"><img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" alt="ChromeWebStore" width="300px" ></a>

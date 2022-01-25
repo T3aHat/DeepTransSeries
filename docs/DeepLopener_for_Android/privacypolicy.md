@@ -1,12 +1,12 @@
 ---
 title: DeepLopener for Android | Privacy policy
 class: DeepLopener for Android
-repository_url: https://github.com/T3aHat/DeepLopenerSeries/projects
+repository_url: https://github.com/T3aHat/DeepLopenerSeries
 ---
 
 **Privacy Policy**
 
-teahat built the "DeepLopener for Android" app as a Free app. This SERVICE is provided by teahat at no cost and is intended for use as is.
+Teahat built the "DeepLopener for Android" app as a Free app. This SERVICE is provided by teahat at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
