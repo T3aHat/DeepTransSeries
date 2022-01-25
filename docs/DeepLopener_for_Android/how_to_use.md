@@ -9,7 +9,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries
 1. **Get your [DeepL API_KEY](https://www.deepl.com/en/pro/change-plan#developer)**   
    ![price.png](/assets/images/price.png)  
    _from [deepl.com](https://www.deepl.com/en/pro/change-plan#developer)_  
-   
+
    If you use DeepL API Free, you can translate text for max. 500,000 characters/month.  
 
 2.  **Download [DeepLopener for Android](https://play.google.com/store/apps/details?id=com.teahat.deeplopener)**  
@@ -29,7 +29,7 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries
 1. Execute this app
 2. Input text you want to translate in the textarea above
 3. Select the target language in the spinner
-    - For example, if you want to translate English text into Japanese one, select `日本語`  
+    - For example, if you want to translate English text into Japanese one, select `日本語`
 4. Tap `TRANSLATE` button  
 
 - ![outline_close_black_24dp.png](/assets/images/outline_close_black_24dp.png): flush text in the input and output textarea  
