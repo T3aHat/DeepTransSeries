@@ -26,6 +26,13 @@ repository_url: https://github.com/T3aHat/DeepLopener
     - If you want to use Free version, change it as `Free`.
     - If you want to use Pro version, change it as `Pro`.
 
+**ShortCuts**  
+Several modes can be executed by shortcuts.  
+These shortcuts can be edited from `chrome://extensions/shortcuts`  
+![shortcuts.png](https://github.com/T3aHat/DeepLopener/raw/main/images/shortcuts.png)  
+- Layout-oriented replacement mode: `Ctrl+Shift+L` (`⌘+Shift+L` on mac)
+- Text-oriented replacement mode: `Ctrl+Shift+K` (`⌘+Shift+K` on mac) twice within 1 second  
+
 ## layout-oriented replacement mode
 
 Click the icon ![icon24.png](https://github.com/T3aHat/DeepLopener/raw/main/icon24.png) in the upper right corner
