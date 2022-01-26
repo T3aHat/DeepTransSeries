@@ -7,7 +7,7 @@ repository_url: https://github.com/T3aHat/DeepLopener
 日本語解説記事は [コチラ](https://t3ahat.hateblo.jp/entry/How_to_use_DeepLopener)  
 # How to use
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/iptT7NxNoz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dwysny4gwpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 1. **Get your [DeepL API_KEY](https://www.deepl.com/en/pro/change-plan#developer)**   
    ![price.png](/assets/images/price.png)

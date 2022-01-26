@@ -6,7 +6,7 @@ repository_url: https://github.com/T3aHat/DeepLopener
 
 # DeepLopener
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/iptT7NxNoz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dwysny4gwpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 This Google chrome extension can replace texts that you want to translate with translation results by DeepL(deepl.com) keepking the original style.  
 On pdf, this extension displays frames showing translated sentences.
