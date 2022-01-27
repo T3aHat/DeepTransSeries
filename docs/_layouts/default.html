@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }} prefix="og: http://ogp.me/ns#">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +10,15 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    {% if page.preview %}
+    <meta property="og:image" content="{{ page.preview }}" />
+   {% else %}
+    <meta property="og:image" content="https://deeplopener.ml/favicon.ico" />
+   {% endif %}
+   <meta
+  name="twitter:image"
+  content="https://deeplopener.ml/favicon.ico"/>
 
 {% seo %}
   </head>
