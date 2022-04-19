@@ -10,13 +10,14 @@ repository_url: https://github.com/T3aHat/DeepLopenerSeries
    ![price.png](/assets/images/price.png)  
    _from [deepl.com](https://www.deepl.com/en/pro/change-plan#developer)_  
 
-   If you use DeepL API Free, you can translate text for max. 500,000 characters/month.  
+   If you use DeepL API Free, you can translate text for max 500,000 characters/month.  
 
 2.  **Download [DeepLopener for Android](https://play.google.com/store/apps/details?id=com.teahat.deeplopener)**  
 <a href="https://play.google.com/store/apps/details?id=com.teahat.deeplopener" target="_blank" rel="noopener noreferrer"><img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="GooglePlay" width="200px" ></a>
 
 3.  **Input your API_KEY and change a setting of API version on settings page** ![settings.png](/assets/images/outline_settings_black_24dp.png)  
-    - If you use Pro version API, switch `API version` to enabled.  
+    - If you don't have API_KEY and want to try this app, please select `Trial`. Otherwise, select the API version you have.
+      - The `Trial` version can translate up to 5000 words per month by Free API, so please do not translate confidential information.
 
 <img src="/assets/images/settings_api.png" alt="settings_api.png" style="width: 50%;">
 
