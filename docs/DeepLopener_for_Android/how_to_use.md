@@ -54,8 +54,7 @@ If you can't use ContextMenu mode, please try this mode.
 
 1. Select text you want to translate like below  
 <img src="/assets/images/share.png" alt="share.png" style="width: 50%;">
-2. Tap `Share`
-3. Tap `DeepLopener`  
+2. Tap `Share` → `DeepLopener`  
 <img src="/assets/images/share_deepl.png" alt="share_deepl.png" style="width: 50%;">
 4. The translation window will appear on top of the opennig application
 

@@ -16,10 +16,9 @@ repository_url: https://github.com/T3aHat/DeepLopener
 2.  **Download [DeepLopener](https://chrome.google.com/webstore/detail/deepl-opener-pro/almdndhiblbhbnoaakhgefcpmbaoljde)**
     <iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="DeepLopener" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fdeeplopener%2Falmdndhiblbhbnoaakhgefcpmbaoljde" frameborder="0" scrolling="no"></iframe>
 
-3.  **Login to Chrome and enable synchronization**  
+3.  **【Recommend】 Login to Chrome and enable synchronization**  
+    This allows you to save your API_KEY with simple obfuscation, but you can use it without logging in. [More details](http://deeplopener.ml/DeepLopener/sync).  
     ![syncon.png](https://github.com/T3aHat/DeepLopener/raw/main/images/syncon.png)  
-    You need to login to Chrome and enable synchronization for security reasons.
-    If you don’t want to log in to Chrome and sync, see [here](http://deeplopener.ml/DeepLopener/#chrome-sync).
 
 4.  **Input your API_KEY and change a setting of API version on options page**  
     ![options.png](https://github.com/T3aHat/DeepLopener/raw/main/images/options.png)

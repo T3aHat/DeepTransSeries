@@ -24,13 +24,7 @@ Check [here](https://deeplopener.ml/DeepLopener/how_to_use).
 Check [here](https://deeplopener.ml/DeepLopener/options).
 
 # Chrome sync
-
-To use this extension, please sign in to Chrome and sync turns on. If you do not sign in or sync turns off, you will get an error like  
- `Error in response to storage.get: Error: Invocation of form identity.getProfileUserInfo(null, function) doesn't match definition identity.getProfileUserInfo(function callback)`.  
- ![syncon.png](https://github.com/T3aHat/DeepLopener/raw/main/images/syncon.png)
-
-## Why do I need to log in and enable synchronization?
-
+This extension allows you to easily obfuscate and save your API_KEY by logging in to Chrome and enabling synchronization.  
 Check [here](https://deeplopener.ml/DeepLopener/sync).
 
 # Japanese article
