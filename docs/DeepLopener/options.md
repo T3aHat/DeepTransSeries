@@ -24,7 +24,7 @@ When "Enable", ![icon24.png](https://github.com/T3aHat/DeepLopener/raw/main/icon
 # HoverText
 
 ![hover2.gif](https://github.com/T3aHat/DeepLopener/raw/main/images/hover.gif)  
-When "Enable", the original text is displayed under the translation (and vice versa) on text-oriented replacement mode.  
+When "Enable", the original text is displayed under the translation (and vice versa) on text-oriented mode.  
 (Default:`"Enable"`)
 
 # DeepL API_KEY
