@@ -1,13 +1,13 @@
 ---
-title: DeepLopener for Android
-class: DeepLopener for Android
-repository_url: https://github.com/T3aHat/DeepLopenerSeries
+title: DeepTrans for Android
+class: DeepTrans for Android
+repository_url: https://github.com/T3aHat/DeepTransSeries
 ---
 
-# DeepLopener for Android
-[How to use](/DeepLopener_for_Android/how_to_use)  
+# DeepTrans for Android
+[How to use](/DeepTrans_for_Android/how_to_use)  
   
-[Privacy Policy](/DeepLopener_for_Android/privacypolicy)  
+[Privacy Policy](/DeepTrans_for_Android/privacypolicy)  
   
-[Terms and Conditions](/DeepLopener_for_Android/terms)
+[Terms and Conditions](/DeepTrans_for_Android/terms)
 
